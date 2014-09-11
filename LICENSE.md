@@ -1,7 +1,7 @@
 Out-of-this-World
 =================
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
+Version 1, September 2014 
 
  Copyright (C) 2014 Edwin Wiersma <dev@apps4mobile.nl> 
 
